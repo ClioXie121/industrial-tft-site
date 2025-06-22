@@ -251,7 +251,8 @@ header .container {
 
 .main-section a {
   text-decoration: none;
-  color: #2563eb;
+  color: #00897C;
+  font-size: 24px !important;
   font-weight: 600;
 }
 
@@ -270,11 +271,16 @@ header .container {
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
+.post-card h2{
+  font-size: 16px !important;
+  color: #555;
+}
+
 .main-section article h1 {
   font-size: 1.8rem;
   margin-bottom: 3rem;
   margin-top: 3rem;
-  color: #2563eb;
+  color: #00897C;
   text-align: center;
 }
 
@@ -292,4 +298,49 @@ header .container {
 
 .main-section article ul {
   margin-left: 40px;
+}
+
+.main-section article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 16px;
+  line-height: 1.5;
+  border: 1px solid #ddd;
+  table-layout: auto;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+}
+
+.main-section article thead {
+  background-color: #00897C;
+  color: white;
+}
+
+.main-section article thead th {
+  padding: 12px 15px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 17px;
+  letter-spacing: 0.3px;
+}
+
+.main-section article tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+.main-section article tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.main-section article tbody td {
+  padding: 12px 15px;
+  vertical-align: top;
+  font-size: 15px;
+  color: #333;
+}
+
+.main-section article tbody tr:hover {
+  background-color: #f1f1f1;
 }
