@@ -167,7 +167,7 @@ header .container {
   display: none;
   position: absolute;
   background-color: white;
-  min-width: 160px;
+  min-width: 210px;
   top: 100%;
   left: 0;
   z-index: 1000;
@@ -182,61 +182,19 @@ header .container {
 
 .dropdown li {
   list-style: none;
+
 }
 
 .dropdown a {
   color: #00897C;
   padding: 10px;
+  font-size: 15px;
   
 }
 
 .dropdown a:hover {
   background-color: #f0f0f0;
 }
-
-/* .main-section {
-  max-width: 1200px;
-  margin: 40px auto;
-  padding: 24px 32px;
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
-}
-
-.main-section h2 {
-  margin-bottom: 10px;
-  font-size: 1.5rem;
-}
-
-.main-section p {
-  color: #444;
-  line-height: 1.6;
-}
-
-.main-section .post-card {
-  background-color: white;
-  border-radius: 8px;
-  padding: 24px 32px;
-  margin-bottom: 30px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
-}
-
-.main-section  .meta {
-  font-size: 0.85rem;
-  color: #888;
-  margin-top: 6px;
-}
-
-.main-section a {
-  text-decoration: none;
-  color: #2563eb;
-  transition: color 0.2s ease;
-}
-
-.main-section a:hover {
-  color: #1d4ed8;
-} */
-
 .main-content {
     padding: 0px;
 }
@@ -303,4 +261,35 @@ header .container {
 
 .main-section featured-posts{
     padding: 0px;
+}
+
+.main-section article {
+  padding: 2rem 3rem 1rem;
+  border-bottom: 1px;
+  /* background-color: #f4f4f4; */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.main-section article h1 {
+  font-size: 1.8rem;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  color: #2563eb;
+  text-align: center;
+}
+
+
+.main-section article h2 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+
+.main-section article p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.main-section article ul {
+  margin-left: 40px;
 }
