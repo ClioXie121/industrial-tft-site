@@ -1,7 +1,21 @@
-<main class="section-content container">
-  <h1>{{ .Title }}</h1>
-  <p>{{ .Params.description }}</p>
-  <div class="page-body">
-    {{ .Content }}
+{{ define "main" }}
+  <h2>Latest Articles</h2>
+
+  {{ $paginator := .Paginate (where .Pages "Type" "post") }}
+  {{ range $paginator.Pages }}
+    <div class="post-card">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <p>{{ .Summary }}</p>
+      <div class="meta">{{ .Date.Format "Jan 2, 2006" }}</div>
+    </div>
+  {{ end }}
+
+  <div class="pagination">
+    {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}">&laquo; Previous</a>
+    {{ end }}
+    {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}">Next &raquo;</a>
+    {{ end }}
   </div>
-</main>
+{{ end }}

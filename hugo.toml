@@ -1,3 +1,6 @@
 baseURL = 'https://industrial-tft.com/'
 languageCode = 'en-us'
 title = 'Industrial TFT Display'
+
+[pagination]
+  pagerSize = 2
