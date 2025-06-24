@@ -95,8 +95,9 @@ Used in dashboards, public information displays, and control systems in buses, t
 
 ### 5. Outdoor Kiosks and POS Systems
 
-High-brightness and weather-resistant displays support outdoor vending, ticketing, and advertising terminals.
-[How to Design Displays for Outdoor or High Ambient Light Environments](https://dev.to/rocktech/how-to-design-displays-for-outdoor-or-high-ambient-light-environments-3o1l)
+High-brightness and weather-resistant displays support outdoor vending, ticketing, and advertising terminals.w
+
+👉 [How to Design Displays for Outdoor or High Ambient Light Environments](https://dev.to/rocktech/how-to-design-displays-for-outdoor-or-high-ambient-light-environments-3o1l)
 
 ### 6. Energy and Power Systems
 

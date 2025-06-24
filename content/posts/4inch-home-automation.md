@@ -111,3 +111,4 @@ The 4-inch square HMI is a highly adaptable and stylish component in the world o
 
 By combining thoughtful UI design, efficient embedded hardware, and seamless system integration, this humble 4-inch square panel can truly elevate the smart home experience — all while maintaining aesthetic harmony with your home’s interior.
 
+Explore more real-world TFT integration projects on our [TFT LCD manufacturer profile](https://about.me/rocktech).
