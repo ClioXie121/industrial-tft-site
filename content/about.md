@@ -40,3 +40,4 @@ Our goal is to provide engineers, product developers, and business leaders with 
 
 
 **Industrial TFT Display** is part of an ecosystem of platforms focused on embedded systems, smart electronics, and display innovation.
+📩 *For collaboration, content suggestions, or display-related inquiries, feel free to contact us at* [**info@industrial-tft.com**](mailto:info@industrial-tft.com).
