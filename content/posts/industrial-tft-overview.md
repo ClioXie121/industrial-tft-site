@@ -145,4 +145,4 @@ The industrial display market is evolving with:
 
 Industrial TFT displays are foundational components in modern embedded systems. Their ruggedness, adaptability, and customization potential make them indispensable in applications where durability and reliability are non-negotiable. As smart factories, smart homes, and connected devices continue to proliferate, the demand for robust industrial displays will only grow.
 
-If you are planning a new embedded product, investing in a high-quality industrial TFT display ensures a superior user experience and long-term success.
+If you are planning a new embedded product, investing in a high-quality [industrial TFT display](https://www.rocktech.com.hk/industrial-tft-displays/) ensures a superior user experience and long-term success.
