@@ -105,10 +105,20 @@ For example, in a multi-apartment building, each unit can have a personalized we
 
 ---
 
+---
+
 ## Conclusion
 
 The 4-inch square HMI is a highly adaptable and stylish component in the world of home automation. Whether used as a lighting controller, thermostat interface, or scene manager, its compact size and user-centric design make it a go-to choice for modern smart homes.
 
 By combining thoughtful UI design, efficient embedded hardware, and seamless system integration, this humble 4-inch square panel can truly elevate the smart home experience — all while maintaining aesthetic harmony with your home’s interior.
 
-Explore more real-world TFT integration projects on our [TFT LCD manufacturer profile](https://about.me/rocktech).
+For advanced designs where one SBC supports different types of displays (like MIPI, LVDS, RGB), check out this article:  
+👉 <a href="https://dev.to/rocktech/how-to-design-a-custom-sbc-that-supports-multiple-displays-interfaces-and-sizes-2cib" target="_blank">How to Design a Custom SBC That Supports Multiple Display Types</a>
+
+---
+
+## Further Reading
+
+- <a href="https://en.wikipedia.org/wiki/Home_automation" target="_blank" rel="nofollow">Home Automation on Wikipedia</a>  
+- <a href="https://www.cnet.com/home/smart-home/" target="_blank" rel="nofollow">Smart Home News and Reviews – CNET</a>
