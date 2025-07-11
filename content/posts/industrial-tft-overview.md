@@ -148,5 +148,5 @@ Industrial TFT displays are foundational components in modern embedded systems. 
 If you are planning a new embedded product, investing in a high-quality [industrial TFT display](https://www.rocktech.com.hk/industrial-tft-displays/) ensures a superior user experience and long-term success.
 
 > **Related Resources**  
-> - Learn more about [TFT LCD Technology (Wikipedia)](https://en.wikipedia.org/wiki/TFT_LCD){:rel="nofollow"}  
-> - Check industrial applications on [Avsforum](https://www.avsforum.com/){:rel="nofollow"}  
+> - Learn more about <a href="https://en.wikipedia.org/wiki/TFT_LCD" rel="nofollow" target="_blank">TFT LCD Technology (Wikipedia)</a>  
+> - Check industrial applications on <a href="https://www.avsforum.com/" rel="nofollow" target="_blank">Avsforum</a>

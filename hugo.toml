@@ -4,3 +4,8 @@ title = 'Industrial TFT Display'
 
 [pagination]
   pagerSize = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
