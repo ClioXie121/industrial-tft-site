@@ -37,6 +37,7 @@ In industrial buildings or large HVAC zones, thermostats aren’t just about set
 - Receive real-time alerts if thresholds are exceeded.
 
 **Example:** A factory zone with sensitive equipment requires precision temperature control. A 4-inch display integrated into the thermostat allows technicians to respond instantly and adjust parameters without logging into a separate control terminal.
+For deeper exploration into embedded SBC form factors used in smart thermostats, check out this real-world design story: [Why Custom SBC Had to Break the Rectangle Rule](https://dev.to/kevinzhang109/why-our-custom-sbc-had-to-break-the-rectangle-rule-a-real-world-pcb-design-challenge-2e5f).
 
 ---
 
