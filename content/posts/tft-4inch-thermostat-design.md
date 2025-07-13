@@ -88,7 +88,7 @@ With a 4-inch display, designers can deliver a rich HMI experience:
 - **Access control**: PIN or NFC login for admin users
 - **OTA updates**: Display allows user to trigger firmware upgrades
 
-UI frameworks like **Qt**, **LVGL**, or **Flutter Embedded** are increasingly used to develop these interfaces.
+UI frameworks like **<a href="https://www.qt.io/" target="_blank" rel="nofollow">Qt</a>**, **<a href="https://lvgl.io/" target="_blank" rel="nofollow">LVGL</a>**, or **Flutter Embedded** are increasingly used to develop these interfaces.
 
 ---
 
