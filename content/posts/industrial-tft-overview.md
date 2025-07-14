@@ -150,3 +150,4 @@ If you are planning a new embedded product, investing in a high-quality [industr
 > **Related Resources**  
 > - Learn more about <a href="https://en.wikipedia.org/wiki/TFT_LCD" rel="nofollow" target="_blank">TFT LCD Technology (Wikipedia)</a>  
 > - Check industrial applications on <a href="https://www.avsforum.com/" rel="nofollow" target="_blank">Avsforum</a>
+> - Extended discussion on <a href="https://dev.to/kevinzhang109/industrial-vs-consumer-tft-displays-why-theyre-not-interchangeable-4f7i" rel="nofollow" target="_blank">dev.to</a>
