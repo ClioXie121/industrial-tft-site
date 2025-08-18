@@ -60,5 +60,3 @@ When specifying a high brightness TFT for your project, pay attention to:
 ## Conclusion
 
 High brightness industrial TFT displays are more than just “bright screens.” They are carefully engineered systems that balance luminance, thermal stability, power efficiency, and durability. Whether used in a smart city kiosk or heavy machinery control system, they ensure that information is visible and actionable at all times.
-
-To explore the broader context of industrial display design, see our [Industrial TFT Overview](/posts/industrial-tft-overview/) for a comprehensive guide.
