@@ -8,8 +8,6 @@ keywords: ["high brightness TFT", "industrial TFT display", "sunlight readable d
 
 In industrial and outdoor applications, display visibility is often the first design challenge engineers face. Standard TFT LCD panels can struggle in environments with high ambient light, direct sunlight, or fluctuating temperatures. This is where **high brightness industrial TFT displays** come in — engineered for clear, consistent performance even under the harshest conditions.
 
-For a complete introduction to industrial-grade display design, see our [Industrial TFT Overview](/posts/industrial-tft-overview/).
-
 ---
 
 ## Why High Brightness Matters
