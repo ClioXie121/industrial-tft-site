@@ -106,4 +106,6 @@ High brightness industrial TFT displays are more than just “bright screens.”
 
 As industrial IoT, smart automation, and connected healthcare continue to expand, the demand for sunlight-readable, rugged, and efficient TFT displays will only grow. By carefully considering design requirements and adopting best practices, engineers can deliver products that perform reliably in even the harshest conditions.
 
-To explore more insights and resources on industrial TFT and IPS technologies, visit [IPS Displays](https://linktr.ee/ipsdisplays).
+To explore more insights and resources on industrial TFT and IPS technologies, visit [IPS Displays](https://linktr.ee/ipsdisplays). 
+
+---
