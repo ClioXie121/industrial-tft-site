@@ -94,7 +94,10 @@ Looking ahead, the synergy between AI, cloud computing, and high-resolution embe
 2. AI processes it instantly via edge computing.
 3. Diagnosis and recommended next steps are shown on screen.
 
-This type of workflow is already emerging in dermatology, ophthalmology, and pathology.
+This type of workflow is already emerging in dermatology, ophthalmology, and pathology.  
+At the hardware level, many of these smart diagnostic devices rely on embedded single-board computers (SBCs) to handle imaging workloads and AI inference.  
+For developers evaluating the best platform, comparing **Android SBCs** and **Linux SBCs** is a critical step in balancing real-time performance, flexibility, and cost.  
+You can read a detailed comparison here: [Android SBC vs Linux SBC: Which Is Better for Embedded Projects](https://android-board.com/posts/android-sbc-vs-linux-sbc/).
 
 ## Conclusion
 
